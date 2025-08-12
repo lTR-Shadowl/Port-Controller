@@ -1,5 +1,5 @@
 # Port-Controller
--> This application checks whether the target IPs have open ports. (The application is currently being updateding.)
+-> This application checks whether the target IPs have open ports. (The application is currently being updateding.)                                              
 ! -> This application should not be used for criminal or illegal purposes. The application developer accepts no responsibility for its use.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
