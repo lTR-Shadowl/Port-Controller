@@ -7,6 +7,6 @@ The application is built on Python. Python3+ must be installed on the terminal y
 
 Windows usage: Click on the application file and select Windows Terminal by clicking “Open with.” Additionally, IDLE Python and PyCharm can also be used to open the application.
 
-Termux: Open the application file using Termux. Then, type “python PORT-Controller” in the location where the application is located.
+Termux: Open the application file using Termux. Then, type “python PORT-Controller.py” in the location where the application is located.
 
-Linux: Type “python PORT-Controller” in the location where the application file is downloaded.
+Linux: Type “python PORT-Controller.py” in the location where the application file is downloaded.
