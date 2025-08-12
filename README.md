@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Updating-orange)
 ![License](https://img.shields.io/badge/License-Free-success)
 
-<img src="file_00000000c5c46243b39babaace287a63.png" alt="Project Logo" width="200">
+<img src="PORT-Controller.png" alt="Project Logo" width="200">
 
 > **Port-Controller** is an application that scans target IP addresses for open ports.  
 > ⚠️ **Disclaimer:** This application must **not** be used for illegal or criminal purposes. The developer assumes **no responsibility** for any misuse.
