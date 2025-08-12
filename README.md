@@ -1,7 +1,8 @@
 # Port-Controller
-This application checks whether the target IPs have open ports. This application should not be used for criminal or illegal purposes. The application developer accepts no responsibility for its use.
+-> This application checks whether the target IPs have open ports. (The application is currently being updateding.)
+! -> This application should not be used for criminal or illegal purposes. The application developer accepts no responsibility for its use.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The application is built on Python. Python3+ must be installed on the terminal you will use to run the application. The application can be used on Python terminals, Termux, Windows, and Linux.
 
