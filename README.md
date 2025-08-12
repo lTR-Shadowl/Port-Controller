@@ -10,4 +10,4 @@ Windows usage: Click on the application file and select Windows Terminal by clic
 
 Termux usage: Open the application file using Termux. Then, type “python PORT-Controller.py” in the location where the application is located.
 
-Linux usage: Type “python PORT-Controller.py” in the location where the application file is downloaded.
+Linux usage: Download "PORT-Controller.py ". Type “python PORT-Controller.py” in the location where the application file is downloaded.
